@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WALC 2026//UTN Ibarra//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:walc-2026@eslared.net
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261121
+SUMMARY:WALC 2026 — Workshop para América Latina y el Caribe
+LOCATION:Universidad Técnica del Norte\, Ibarra\, Ecuador
+DESCRIPTION:29.ª edición del WALC. Cinco tracks simultáneos de 40 horas. Más información: https://eslared.net/walc2026/
+URL:https://eslared.net/walc2026/
+END:VEVENT
+END:VCALENDAR
